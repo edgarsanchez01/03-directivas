@@ -1,6 +1,7 @@
 <template>
   <div>
     <h1>Directivas en VUE.js</h1>
+    <h2>Grupo 3B</h2>
     <hr />
     <h2>v.text</h2>
     <span v-text="'Hola desde la directiva v-text'"></span>
